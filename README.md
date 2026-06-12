@@ -1,4 +1,3 @@
-# Algerigo
 <!doctype html>
 <html lang="fr">
 <head>
